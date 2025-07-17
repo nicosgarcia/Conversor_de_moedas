@@ -11,4 +11,4 @@
   <li>5. ARS -> BRL</li>
   <li>6. BRS -> ARS</li>
 </ul>
-<p>\nApós escolher, digite o valor a ser convertido e terá o resultado!</p>
+<p>Após escolher, digite o valor a ser convertido e terá o resultado!</p>
