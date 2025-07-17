@@ -12,5 +12,5 @@
   <li>6. BRS -> ARS</li>
 </ul>
 <p>Após escolher, digite o valor a ser convertido e terá o resultado!</p>
-<p>__________________________________________________________________________________________________________________________________________________________________________________________</p>
+<p>____________________________________________________________________________________________________________________________________________________________</p>
 <p>OBS: Para fazê-lo funcionar, você precisa de uma chave API do Exchange Rate API. Após gerar a sua chave, subistitua a variável "API_KEY" no arquivo Conversor.java pela sua chave api.</p>
